@@ -9,3 +9,9 @@ kulas merk,kulkas merk 1 pintu,kulkas merk 2 pintu,kulkas merk seken,kulas merk 
 freezer,freezer box,freezer box bekas,freezer bekas,freezer box second,freezer bekas murah, freezer box bekas 100 liter,freezer box bekas 200,freezer box low watt
 2. Sesuai merk
 freezer box merk,freezer box merk seken,freezer box merk second,freezer box kulkas
+
+#MESIN CUCI
+1. General 
+mesin cuci,mesin cuci bekas,mesin cuci 1 tabung,mesin cuci motor,mesin cuci baru,mesin cuci bekas 2 tabung, mesin cuci bekas murah,mesin cuci bekas 1 tabung otomatis,mesin cuci bekas 2 tabung,mesin cuci 2 tabung,mesin cuci 2 tabung,mesin cuci 2 tabung bekas murah,mesin cuci 2 tabung bekas,mesin cuci 2tabung
+2. Sesuai merk
+mesin cuci merk 7kg,mesin cuci merk 8kg,mesin cuci merk 10kg,mesin cuci merk
