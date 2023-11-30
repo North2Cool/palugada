@@ -15,3 +15,9 @@ freezer box merk,freezer box merk seken,freezer box merk second,freezer box kulk
 mesin cuci,mesin cuci bekas,mesin cuci 1 tabung,mesin cuci motor,mesin cuci baru,mesin cuci bekas 2 tabung, mesin cuci bekas murah,mesin cuci bekas 1 tabung otomatis,mesin cuci bekas 2 tabung,mesin cuci 2 tabung,mesin cuci 2 tabung,mesin cuci 2 tabung bekas murah,mesin cuci 2 tabung bekas,mesin cuci 2tabung
 2. Sesuai merk
 mesin cuci merk 7kg,mesin cuci merk 8kg,mesin cuci merk 10kg,mesin cuci merk
+
+#SHOWCASE
+1. General
+showcase,showcase second,showcase second murah,showcase bekas,showcase second murah terdekat,showcase mini,showcase second murah 2 pintu,showcase second murah kecil,showcase kas murah,showcase bekas malang,showcase bekas bandung,showcase mini bekas,showcase mini second murah,showcase mini bekas murah
+2. Sesuai merk
+showcase merk,showcase merk bekas,showcase merek second,showcase merk 5 rak,showcase merk 4 rak,showcase merk 3 rak
